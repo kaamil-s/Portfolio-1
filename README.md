@@ -31,7 +31,7 @@ Welcome to my portfolio website! This website serves as a central hub to display
 ## Technologies Used
 
 - HTML (Hyper Text Markup Language)
-- CSS ()
+- CSS (Cascading Style Sheets)
 
 ## Installation
 
